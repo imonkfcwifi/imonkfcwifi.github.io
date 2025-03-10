@@ -1,4 +1,4 @@
 window.__PAW_CONFIG__ = {
-    googleApiKey: 'AIzaSyBoX_m8IQZO2Fq__4XgkIRADhVXTJwtsbs',
-    googleSheetDocId: '1AKmXQRHbW2Cu0VpVzM5wewL5W8HtQRgTwhdAugdqJJU',
+    googleApiKey: 'AIzaSyAS3O9lfj4Bl4T6n1ZFoCYdeikeV2FHVt0',
+    googleSheetDocId: '1FgMWbbWIMv5XnK-ZG9n58JEmZtsTfJTFtGyF-ZmnbX4',
 }
